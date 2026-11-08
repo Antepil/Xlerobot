@@ -1,0 +1,21 @@
+Install date: 2026-11-05 (Asia/Shanghai)
+Python: 3.12.16
+Environment: /home/antep/projects/Xlerobot/.venv
+lerobot: 0.6.2
+torch: 2.15.0
+torchvision: 0.29.2
+torchcodec: 0.17.0+cpu
+av: 15.1.0
+pygame: 2.6.1
+rustypot: 1.13.1
+lerobot_robot_xlerobot: 0.1.0
+lerobot_robot_xlerobot_2wheels: 0.1.0
+lerobot_robot_xlerobot_mecanum: 0.1.0
+lerobot_teleoperator_xlerobot_vr: 0.1.0
+xlerobot_model: 0.1.0
+XLeRobot commit: b017b5e6354bd9f61f4247a920c72622ca0aade0
+lerobot commit: 9e5ee9859480e425a97a6836bb3fee479539beb5
+Target: three omniwheels; keyboard; USB direct connection
+uv pip check: PASS (103 packages)
+Offline smoke check: PASS (plugins, keyboard, CUDA, video dataset, partial episode saving)
+Hardware: no robot serial controller or camera detected; hardware calibration/communication not tested

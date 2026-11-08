@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.mcp.json
+data/
+logs/
+square2box/
+calibration/
+serial_ports.json
+
+# Private keys
+*.pem
+*.key
